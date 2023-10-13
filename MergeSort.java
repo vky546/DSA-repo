@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Main {
+public class MergeSort {
 
 
     public static void merging(int[] nums, int l, int mid, int h) {
